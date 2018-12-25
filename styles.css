@@ -1,0 +1,195 @@
+/* dianna */
+
+.title  { 
+    color: lightblue;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; 
+}
+
+p { padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+     
+}
+
+.factBlock {
+    height: 320px;
+    
+}
+.facts {
+    height: 425 px;
+    padding-top: 20px;
+}
+
+.todoBlock { 
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.todoFooter {
+    padding: 10px;
+     
+}
+
+
+#dropdown-search { margin-top: 100px;
+
+}
+.footer {
+    background-color: #f2f2f2;
+    height: 180px;
+    color: #262626;
+    width: 101%;
+      
+    }
+
+/* profile photo div */
+.b {     
+    margin-bottom: 5%;
+    margin-top: 5%;
+    grid-gap: 5%;
+    width: 175px;
+    height: 175px;
+}
+
+/* dianna end*/
+
+
+.caro-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    margin-top: 60  px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.discover {
+    position: absolute;
+    top: 30%;
+    margin-left: 180px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.searchBar {
+    position: absolute;
+    top: 40%;
+    width: 750px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px; 
+}
+
+.dropdown {
+    margin-top: -100px;
+    margin-left: -10px;
+}
+
+.dropdown-menu {
+    height: 250px;
+    overflow: auto;
+}
+
+
+.inspire {
+    margin-bottom: 55px;
+    color: lightblue;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.explore {
+    margin-bottom: 50px;
+    margin-top: -20px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.placeholder {
+    margin-left: 25px;
+}
+
+
+#map {
+    margin-left: -300px;
+    margin-bottom: 15px
+}
+
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.nav-text, .fas {
+    color:  #1a1a1a;
+}
+.discover, .searchBar {
+   
+    text-align: center; 
+    color: white;
+
+}
+.footer-text {
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+}
+
+.text-footer, .footer-signature {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h5, h1, .searchBar, .factToDoItem, .factListItem {
+    font-family: 'Roboto', sans-serif; 
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif; 
+    margin-top: 30px;
+}
+
+#gmap_canvas
+{
+    height: 300px;
+    width: 500px;
+}
+
+/* Added style to google image div */
+
+.googleImg { 
+    /* margin: 15px; */
+    padding: 2%;
+    grid-gap: 5%;
+    box-shadow: 5px 5px 5px #777777;  
+    align-content: center;  
+    margin: auto;  
+    }
+
+/* added formating to title in home */
+.cityTitle {
+    text-align: center;
+    color:#0081CF;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; 
+    }
+
+#photography-div {
+   
+    width: 100%
+}
+
+/* magnifying glass */
+
+
+#findAddressButton {
+    margin-top: 10px;
+}
+
+#button1 {
+   margin-bottom: 35px;
+  
+}
